@@ -1,8 +1,6 @@
-# KOLLEGE API
+# Sistem Kuliah API
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-REST API for [kollege](https://github.com/iafthab/kollge)
 
 ## Setting Up
 
