@@ -2,8 +2,11 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+<<<<<<< HEAD
 REST API for Sistem Kuliah
 
+=======
+>>>>>>> d68d4d03f76292d27af650c0b12df6bffff2e580
 ## Setting Up
 
 Clone the project:
