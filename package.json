@@ -8,8 +8,8 @@
     "dev": "node --watch server"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Wahyu <wahyunur.maxy.academy@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.6",

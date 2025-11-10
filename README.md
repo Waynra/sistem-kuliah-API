@@ -1,21 +1,21 @@
-# KOLLEGE API
+# Sistem Kuliah API
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-REST API for [kollege](https://github.com/iafthab/kollge)
+REST API for Sistem Kuliah
 
 ## Setting Up
 
 Clone the project:
 
 ```bash
-  git clone https://github.com/iafthab/kollege_api.git
+  git clone https://github.com/Waynra/sistem-kuliah-API.git
 ```
 
 Change Directory:
 
 ```bash
-  cd kollege_api
+  cd sistem-kuliah-API
 ```
 
 Install dependencies:
@@ -85,7 +85,7 @@ Don't forget to comment out "|| !origin" Inside config/corsOptions.js after deve
     )
 ```
 
-Continue to [Kollege Documentation](https://github.com/iafthab/kollege/#readme)
+<!-- Project-specific documentation link can be added here if available -->
 
 ### Still getting errors?
 
@@ -101,19 +101,14 @@ const allowedOrigins = [
 
 ## Contact
 
-Errors are bound to happen and the documentation is incomplete.  
-I'd love to hear feedbacks and suggestions.  
-In any case, start a conversation: [LinkedIn](https://www.linkedin.com/in/iafthab) [Telegram](https://tttttt.me/LazySage01) [Mail](mailto:afthabiqbal123@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
-Thank You ❤️.
+Maintainer: Wahyu  
+Email: wahyunur.maxy.academy@gmail.com  
+GitHub: https://github.com/Waynra
 
 ## Acknowledgements
 
 - Node,js Tutorial by [@gitdagray](https://github.com/gitdagray)
 
-## Related
-
-[Kollege](https://github.com/iafthab/kollege)
-
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT License — see `LICENSE`
